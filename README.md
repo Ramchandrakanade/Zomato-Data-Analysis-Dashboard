@@ -41,7 +41,7 @@ average spending on each order?
 6) Which type of restaurant received more offline orders, so that Zomato can provide those 
 customers with some good offers?
 
-- Dashboard Interaction <a "https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/visuvalization%20images.pdf">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/visuvalization%20images.pdf">View Dashboard</a>
 
 🔍 Key Steps
 -Data Loading – Imported the dataset from CSV.
