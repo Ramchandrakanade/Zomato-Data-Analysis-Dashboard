@@ -28,7 +28,7 @@ This project presents an exploratory data analysis (EDA) of a Zomato restaurant 
 ## 📁 Dataset
 
 The project uses a CSV dataset titled `"Zomato data .csv"` (assumed to be available locally in the same directory as the notebook).
-1 excel data = "https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/Zomato%20data%20.csv"
+- <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/Zomato%20data%20.csv">ExcelDataset</a>
 ## 🚀 Getting Started
 
 1. Clone this repository
