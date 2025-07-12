@@ -54,7 +54,8 @@ customers with some good offers?
 4)Insights – Identified popular food types, high-rated areas, and pricing patterns.
 
 ## Dashboard
-[screenshot visavulation.pdf](https://github.com/user-attachments/files/21194577/screenshot.visavulation.pdf)
+
+![screenshot visavulation.pdf](https://github.com/user-attachments/files/21194577/screenshot.visavulation.pdf)
 
 
 
