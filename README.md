@@ -55,7 +55,8 @@ customers with some good offers?
 
 ## Dashboard
 
-![screenshot visavulation.pdf](https://github.com/user-attachments/files/21194577/screenshot.visavulation.pdf)
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/9b460c06-72a4-45ec-8a81-f90c7392a8e9" />
+
 
 
 
