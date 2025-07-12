@@ -44,10 +44,13 @@ customers with some good offers?
 - Dashboard Interaction <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/visuvalization%20images.pdf">View Dashboard</a>
 
 🔍 Key Steps
--Data Loading – Imported the dataset from CSV.
--Data Cleaning – Handled missing values and transformed rating data.
--Exploratory Data Analysis – Visualized trends in ratings, cuisines, and locations.
--Insights – Identified popular food types, high-rated areas, and pricing patterns.
+1)Data Loading – Imported the dataset from CSV.
+
+2)Data Cleaning – Handled missing values and transformed rating data.
+
+3)Exploratory Data Analysis – Visualized trends in ratings, cuisines, and locations.
+
+4)Insights – Identified popular food types, high-rated areas, and pricing patterns.
 
 
 ## 🚀 Getting Started
