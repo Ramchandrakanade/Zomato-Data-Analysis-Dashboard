@@ -69,10 +69,6 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
 
-## Final Conclustion
-Here’s a concise **Final Conclusion** you can include at the end of your GitHub README:
-
----
 
 ### ✅ Final Conclusion
 
