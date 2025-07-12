@@ -29,6 +29,27 @@ This project presents an exploratory data analysis (EDA) of a Zomato restaurant 
 
 The project uses a CSV dataset titled `"Zomato data .csv"` (assumed to be available locally in the same directory as the notebook).
 - <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/Zomato%20data%20.csv">ExcelDataset</a>
+
+
+##Question (KPIs)
+1) What type of restaurant do the majority of customers order from?
+2 How many votes has each type of restaurant received from customers?
+3) What are the ratings that the majority of restaurants have received?
+4)Zomato has observed that most couples order most of their food online. What is their 
+average spending on each order?
+5) Which mode (online or offline) has received the maximum rating?
+6) Which type of restaurant received more offline orders, so that Zomato can provide those 
+customers with some good offers?
+
+- Dashboard Interaction <a "https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/visuvalization%20images.pdf">View Dashboard</a>
+
+🔍 Key Steps
+-Data Loading – Imported the dataset from CSV.
+-Data Cleaning – Handled missing values and transformed rating data.
+-Exploratory Data Analysis – Visualized trends in ratings, cuisines, and locations.
+-Insights – Identified popular food types, high-rated areas, and pricing patterns.
+
+
 ## 🚀 Getting Started
 
 1. Clone this repository
