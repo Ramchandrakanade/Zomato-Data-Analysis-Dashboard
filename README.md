@@ -30,6 +30,7 @@ This project presents an exploratory data analysis (EDA) of a Zomato restaurant 
 The project uses a CSV dataset titled `"Zomato data .csv"` (assumed to be available locally in the same directory as the notebook).
 - <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/Zomato%20data%20.csv">ExcelDataset</a>
 
+- <a href="zomato,project.ipynb">code </a>
 
 ##Question (KPIs)
 1) What type of restaurant do the majority of customers order from?
